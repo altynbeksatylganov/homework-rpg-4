@@ -13,7 +13,7 @@ public class AreaSkill extends Skill {
             return;
         }
         int damage = resolvedDamage();
-        target.takeDamage(damage);gi
+        target.takeDamage(damage);
 
     }
 }
